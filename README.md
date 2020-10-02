@@ -19,7 +19,6 @@
 Hi, I'm [Tarun Saxena](https://www.tsaxena99.com/) , a Developer and Designer from India.
 
   
-  
 **About Me:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
@@ -29,7 +28,7 @@ Hi, I'm [Tarun Saxena](https://www.tsaxena99.com/) , a Developer and Designer fr
 
 
 <summary>📈 My GitHub Stats</summary>
-
+<br />
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SaxenaTarun&show_icons=true&theme=gotham" alt="SaxenaTarun" />
 
 
