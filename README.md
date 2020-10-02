@@ -28,12 +28,11 @@ Hi, I'm [Tarun Saxena](https://www.tsaxena99.com/) , a Developer and Designer fr
 - 📫 How to reach me: saxena.tarun17@gmail.com;
 
 
-<details>
 <summary>📈 My GitHub Stats</summary>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SaxenaTarun&show_icons=true&theme=gotham" alt="SaxenaTarun" />
 
-</details>
+
 
 
 
