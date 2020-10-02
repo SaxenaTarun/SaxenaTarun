@@ -15,11 +15,11 @@
 
 <br />
 
-Hi, I'm [Tarun Saxena](https://www.tsaxena99.com/), a Developer 🚀 from India, currently working on Deep Learning Projects.
+Hi, I'm [Tarun Saxena](https://www.tsaxena99.com/), a Developer from India, currently working on Deep Learning Projects.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-**Talking about Personal Stuffs:**
+**About Me:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Neural Networks and Tensorflow; 
@@ -30,7 +30,7 @@ Hi, I'm [Tarun Saxena](https://www.tsaxena99.com/), a Developer 🚀 from India,
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SaxenaTarun&show_icons=true&theme=gotham" alt="SaxenaTarun" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SaxenaTarun&show_icons=true&theme=gotham" alt="SaxenaTarun" />
 
 </details>
 
