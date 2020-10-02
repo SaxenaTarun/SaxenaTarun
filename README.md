@@ -14,10 +14,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=SaxenaTarun.SaxenaTarun)
 
 <br />
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 Hi, I'm [Tarun Saxena](https://www.tsaxena99.com/), a Developer from India, currently working on Deep Learning Projects.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
+  
   
 **About Me:**
 
