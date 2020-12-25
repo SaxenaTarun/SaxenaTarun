@@ -22,7 +22,7 @@ Hi, I'm [Tarun Saxena](https://www.tsaxena99.com/) , a Developer and Designer fr
 **About Me:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Neural Networks and Tensorflow; 
+- 🌱 I’m currently learning Neural Networks; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: saxena.tarun17@gmail.com;
 
