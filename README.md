@@ -21,7 +21,7 @@ Hi, I'm [Tarun Saxena](https://www.tsaxena99.com/) , a Developer from India.
   
 **About Me:**
 
-- 👨🏽‍💻 I’m currently working as an Research Intern at CUHK 😇 ;
+- 👨🏽‍💻 I’m currently working as an Research Intern at NUS 😇 ;
 - 🌱 I’m currently learning something cool :wink: ; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: saxena.tarun17@gmail.com;
