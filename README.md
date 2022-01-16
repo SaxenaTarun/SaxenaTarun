@@ -16,7 +16,7 @@
 <br />
 <img align="right" alt="GIF" src="https://github.com/SaxenaTarun/SaxenaTarun/blob/main/assets/hadder.gif?raw=true" width="496" height="320" />
 
-Hi, I'm [Tarun Saxena](https://www.tsaxena99.com/) , a Developer from India.
+Hi, I'm [Tarun Saxena](https://saxenatarun.github.io/) , a Developer from India.
 
   
 **About Me:**
