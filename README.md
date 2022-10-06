@@ -16,15 +16,15 @@
 <br />
 <img align="right" alt="GIF" src="https://github.com/SaxenaTarun/SaxenaTarun/blob/main/assets/hadder.gif?raw=true" width="496" height="320" />
 
-Hi, I'm [Tarun Saxena](https://saxenatarun.github.io/) , who keeps a vision for COMPUTER VISION 💻
+Hi, I'm [Tarun Saxena](https://saxenatarun.github.io/) , who keeps a vision for COMPUTER VISION 💻🧠
 
   
 **About Me:**
 
-- 👨🏽‍💻 Grad Student for Master of Science in Artificial Intelligence at NEU, Boston 👨🏻‍🎓🧠;
-- 🌱 I’m currently learning something cool :wink: ; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: saxena.tarun17@gmail.com;
+- 👨🏽‍💻 Grad Student for Master of Science in Artificial Intelligence at NEU, Boston 👨🏻‍🎓
+- 🌱 I’m currently learning something cool :wink: 
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: saxena.tarun17@gmail.com
 
 
 <summary>📈 My GitHub Stats</summary>
