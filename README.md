@@ -21,7 +21,7 @@ Hi, I'm [Tarun Saxena](https://saxenatarun.github.io/) , a Developer from India.
   
 **About Me:**
 
-- 👨🏽‍💻 I’m currently working as an Research Intern at NUS 😇 ;
+- 👨🏽‍💻 Grad Student for Master of Science in Artificial Intelligence at NEU, Boston 👨🏻‍🎓 ;
 - 🌱 I’m currently learning something cool :wink: ; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: saxena.tarun17@gmail.com;
