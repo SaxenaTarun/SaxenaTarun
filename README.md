@@ -22,7 +22,7 @@ Hi, I'm [Tarun Saxena](https://saxenatarun.github.io/) , who keeps a vision for 
 **About Me:**
 
 - 👨🏽‍💻 Grad Student for Master of Science in Artificial Intelligence at NEU, Boston 👨🏻‍🎓
-- 🌱 I’m currently learning something cool :wink: 
+- 🌱 I’m currently learning Pytorch :wink: 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: saxena.tarun17@gmail.com
 
